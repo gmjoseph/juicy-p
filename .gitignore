@@ -1,0 +1,12 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Clang
+*.dSYM/
+
+# Project
+.vscode/
+_frames/
+build/
